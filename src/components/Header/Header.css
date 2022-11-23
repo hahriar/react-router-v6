@@ -1,0 +1,9 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1.5em;
+    font-size: 1.2em;
+    
+    
+}
